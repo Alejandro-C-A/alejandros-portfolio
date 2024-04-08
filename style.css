@@ -1,0 +1,66 @@
+html{
+    font-size: 16px;
+}
+h1{
+    font-size: 2rem;
+}
+h2{
+    font-size: 1.7rem;
+}
+h3{
+    font-size: 1.2rem;
+}
+
+th{
+    font-size: 1.4rem;
+}
+
+.certification{
+    display: grid;
+    justify-content: flex-start;
+
+}
+
+section{
+background-color: rgb(67, 126, 194);
+margin-bottom: 60px;
+padding: 10px 50PX;
+}
+
+.presentation {
+    display: grid;
+   img {
+    padding: 20px;
+    justify-self: right;
+   }
+}
+
+
+body{
+    background-color: rgb(132, 181, 237);
+}
+.navigation {
+    background-color: rgb(160, 160, 160);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 16px;
+    margin-bottom: 60px;
+}
+
+p{
+    width: 50vw;
+}
+
+.recruitment{
+    display: flex;
+    flex-direction: column;
+}
+
+#CONTACT{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 40vw;
+    padding-bottom: 20px;
+}
+
